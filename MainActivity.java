@@ -1,3 +1,4 @@
+package com.keynote.newkey.keynote;
 
 import android.Manifest;
 import android.app.ActivityManager;
